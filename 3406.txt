@@ -11,6 +11,7 @@ Title: Ragged Lady, Part 2
 Author: William Dean Howells
 
 Release Date: October 24, 2004 [EBook #3406]
+[Last updated: August 10, 2014]
 
 Language: English
 
@@ -509,7 +510,7 @@ munificently besides when the hat came round; and after the first burst
 of blundering from Lord Lioncourt, they led the magnanimous applause. He
 said he never minded making a bad speech in a good cause, and he made as
 bad a one as very well could be. He closed it by telling Mark Twain's
-whistling story so that those who knew it by heart missed the paint; but
+whistling story so that those who knew it by heart missed the point; but
 that might have been because he hurried it, to get himself out of the way
 of the others following. When he had done, one of the most ardent of the
 Americans proposed three cheers for him.
@@ -696,7 +697,7 @@ affectionately attentive to her in her obvious isolation. Clementina's
 simple-hearted response to their advances appeared to win while it
 puzzled them; and they seemed trying to divine her in the strange double
 character she wore to their more single civilization. The theatrical
-people thought none the worse of her for her simple-hearted ness,
+people thought none the worse of her for her simple-heartedness,
 apparently; they were both very sweet to her, and wanted her to promise
 to come and see them in their little box in St. John's Wood. Once,
 indeed, Clementina thought she saw relenting in Mrs. Milray's glance, but
@@ -816,7 +817,7 @@ speak to her about it?"
 "I see!" said Mrs. Milray. "You don't want to be under the same roof with
 me. Well, you needn't! But I'll tell you a good hotel: the one that the
 trains start out of; and I'll send you that letter for Miss Milray."
-Clemeutina was silent. "Well, I'll send it, anyway."
+Clementina was silent. "Well, I'll send it, anyway."
 
 Mrs. Milray went away in sudden tears, but the girl remained dry-eyed.
 
@@ -925,7 +926,7 @@ Mrs. Lander was again at home in her world of railroads and hotels; but
 she confessed, after he left them at the next station, that she should
 have felt more at home if he had been going on to London with them. She
 philosophized him to the disadvantage of her own countrymen as much less
-offish than a great many New York and Boston peuple. He had given her a
+offish than a great many New York and Boston people. He had given her a
 good opinion of the whole English nation; and the clergyman, who had been
 so nice to them at Liverpool, confirmed her friendly impressions of
 England by getting her a small omnibus at the station in London before he
@@ -1203,7 +1204,7 @@ Florentine, and Mrs. Lander was flattered to find how well she knew
 Italian.
 
 Miss Milray had begun being nice to Clementina in fealty to her brother,
-who so seldom made any proof of her devotion to him, and to whom she bad
+who so seldom made any proof of her devotion to him, and to whom she had
 remained passionately true through his shady past. She was eager to humor
 his whim for the little country girl who had taken his fancy, because it
 was his whim, and not because she had any hopes that Clementina would
@@ -1237,7 +1238,7 @@ gone wrong simply because she had hold still, and had the gift of waiting
 for things to happen. Sometimes when Miss Milray had almost decided that
 her passivity was the calm of a savage, she betrayed so sweet and
 grateful a sense of all that was done for her, that her benefactress
-decided that, she was not rustic, but was sylvan in a way of her own, and
+decided that she was not rustic, but was sylvan in a way of her own, and
 not so much ignorant as innocent. She discovered that she was not
 ignorant even of books, but with no literary effect from them she had
 transmitted her reading into the substance of her native gentleness, and
@@ -1478,7 +1479,7 @@ declared she was not the least sleepy, but she went to bed at nine, and
 slept till nine the next day.
 
 Mrs. Lander, the doctor confessed, the second morning, was more shaken up
-by, her little attack than he had expected; but she decided to see the
+by her little attack than he had expected; but she decided to see the
 gentleman who had asked to call on Clementina. Lord Lioncourt did not
 come quite so soon as she was afraid he might, and when he came he talked
 mostly to Clementina. He did not get to Mrs. Lander until just before he
@@ -1501,7 +1502,7 @@ diagram of his patent right for her to see, because she would be
 interested in a gleaner like that; and he said he wished her father could
 see it, for it would be sure to interest the kind of man Mrs. Lander
 described him to be. "I'll be along up there just about the time you get
-home, Miss Clementina. Then did you say it would be?"
+home, Miss Clementina. When did you say it would be?"
 
 "I don't know; pretty ea'ly in the spring, I guess."
 
@@ -1684,9 +1685,9 @@ more and more money."
 
 "Now, that isn't faia, Mr. Belsky, and you know it."
 
-Well, then, you joke, joke--always joke. Like that Mr. Hinkle. He wants
+"Well, then, you joke, joke--always joke. Like that Mr. Hinkle. He wants
 to make money with his patent of a gleaner, that will take the last grain
-of wheat from the poor, and he wants to joke--joke!'
+of wheat from the poor, and he wants to joke--joke!"
 
 Clementina said, "I won't let you say that about Mr. Hinkle. You don't
 know him, or you wouldn't. If he jokes, why shouldn't he?"
@@ -1770,7 +1771,7 @@ of her massive fore-arm--"I guess you'll live through it."
 She shrieked, but as the pain began to abate, she gathered courage, and
 broke forth joyfully. "Why, it's beautiful, a'n't it? I declare it wo'ks
 like a cha'm. Well, I shall always keep mo'phine around after this, and
-when, I feel one of these attacks comin' on--"
+when I feel one of these attacks comin' on--"
 
 "Send for a physician, Mrs. Lander," said Dr. Welwright, "and he'll know
 what to do."
@@ -1845,7 +1846,7 @@ promised me I should meet you there."
 It seemed a great joke; and Clementina offered to carry his excuses to
 Miss Milray, when she went to make her own.
 
-She, went the next morning. Mrs. Lander insisted that she should go; she
+She went the next morning. Mrs. Lander insisted that she should go; she
 said that she was not going to have Miss Milray thinking that she wanted
 to keep her all to herself.
 
@@ -1898,7 +1899,7 @@ of earnestness: the kind I shouldn't like if I were you."
 went on:
 
 "Another of your admirers was here; but he was not so inconsolable, or
-else be found consolation in staying on and talking about you, or
+else he found consolation in staying on and talking about you, or
 joking."
 
 "Oh, yes; Mr. Hinkle," cried Clementina with the smile that the thought
@@ -2133,7 +2134,7 @@ again!"
 
 "Gregory!"
 
-"Ah, I beg your pardon! I don't know what I'm doing-saying. What will she
+"Ah, I beg your pardon! I don't know what I'm doing--saying. What will she
 think--what will she think of me!" He had ceased to speak to Belsky; he
 collapsed into a chair, and hid his face in his arms stretched out on the
 table before him.
@@ -2223,7 +2224,7 @@ Gregory shook his head. "When--what makes them think"--He stopped and
 stared at her.
 
 "Why, they know that he went down to the Ponte Trinity last night;
-somebody saw him going: And then that peasant found his hat with his name
+somebody saw him going. And then that peasant found his hat with his name
 in it in the drift-wood below the Cascine--"
 
 "Yes," said Gregory, lifelessly. He let his arms drop forward, and his
@@ -2405,7 +2406,7 @@ Gregory--Frank Gregory--"
 
 "Oh, did he meet her the'a?"
 
-"I should think so! And he'll meet her there, very soon. She's coming,
+"I should think so! And he'll meet her here, very soon. She's coming,
 with my poor brother. I meant to tell you, but this ridiculous Belsky
 business drove it out of my head."
 
@@ -2443,7 +2444,7 @@ to do, if you haven't done it already; girls usually have, when they want
 advice. Was there something you were going to say?"
 
 "Oh, no. Nothing. Do you think," she hesitated, appealingly, "do you
-think we are-engaged?"
+think we are--engaged?"
 
 "If he's anything of a man at all, he must think he is."
 
@@ -2564,7 +2565,7 @@ side. "I have been thinking only of myself, as usual."
 
 "No," she protested, compassionately. "But doesn't it seem as if we ought
 to be su'a, this time? I did ca'e for you then, but I was very young, and
-I don't know yet--I thought I had always felt just; as you did, but
+I don't know yet--I thought I had always felt just as you did, but
 now--Don't you think we had both betta wait a little while till we ah'
 moa suttain?"
 
@@ -2756,7 +2757,7 @@ daunted, that she tried to soften the blow after she had dealt it. "Of
 course, I always went to chu'ch, though father and motha didn't. I went
 to the Episcopal--to Mr. Richling's. But I neva was confirmed."
 
-"But-you believe in God?"
+"But--you believe in God?"
 
 "Why, certainly!"
 
@@ -2780,7 +2781,7 @@ share my life if you don't share my faith?"
 
 "Because I do?"
 
-"Well-yes."
+"Well--yes."
 
 "You wring my heart! Are you willing to study--to look into these
 questions--to--to"--It all seemed very hopeless, very absurd, but she
@@ -2931,9 +2932,9 @@ head."
 
 "Why, certainly, Miss Milray!"
 
-I think he's not merely a gloomy little bigot, but a very hard-hearted
+"I think he's not merely a gloomy little bigot, but a very hard-hearted
 little wretch, and I'm glad you're rid of him. No, stop! Let me go on!
-You said I might! she persisted, at a protest which imparted itself from
+You said I might!" she persisted, at a protest which imparted itself from
 Clementina's restive hands. "It was selfish and cruel of him to let you
 believe that he had forgotten you. It doesn't make it right now, when an
 accident has forced him to tell you that he cared for you all along."
@@ -3007,7 +3008,7 @@ Claxon?"
 "I think I can," said Clementina, not very courageously, but patiently.
 
 "It's only this, and I wouldn't tell you if I hadn't thought you equal to
-it. Mrs. Lander's case puzzles me: But I shall leave Dr. Tradonico
+it. Mrs. Lander's case puzzles me. But I shall leave Dr. Tradonico
 watching it, and if it takes the turn that there's a chance it may take,
 he will tell you, and you'd better find out about her friends, and--let
 them know. That's all."
@@ -3400,7 +3401,7 @@ somehow--all but--mother; she expects I'll be kept from harm."
 "Is she religious?"
 
 "Yes, she's a Moravian. Did you ever hear of them?" Clementina shook her
-head. "They're something, like the Quakers, and something like the
+head. "They're something like the Quakers, and something like the
 Methodists. They don't believe in war; but they have bishops."
 
 "And do you belong to her church?"
@@ -3432,7 +3433,7 @@ of May."
 
 "So it will," she owned.
 
-"I'm glad it doesn't seem any longer-say a year--Miss Clementina!"
+"I'm glad it doesn't seem any longer--say a year--Miss Clementina!"
 
 "Oh, not at all," she returned. "Miss Milray's brother and his wife are
 coming with her. They've been in Egypt."
@@ -3591,7 +3592,7 @@ approval and forgiveness, but in his presence, nothing really happened
 except the alternation of her kindness and unkindness, in which she was
 too kind and then too unkind.
 
-The morning of the' day he was at last to leave Venice, he came to say
+The morning of the day he was at last to leave Venice, he came to say
 good bye. He did not ask for Mrs. Lander, when the girl received him, and
 he did not give himself time to lose courage before he began, "Miss
 Clementina, I don't know whether I ought to speak to you after what I
@@ -3980,7 +3981,7 @@ him a great deal; and I might have gone on caring for him, if--When I
 found out that I didn't care any longer, or so much, it seemed to me as
 if it must be wrong. Do you think it was?"
 
-"No-no."
+"No--no."
 
 "When I got to thinking about some one else at fust it was only not
 thinking about him--I was ashamed. Then I tried to make out that I was
@@ -4200,7 +4201,7 @@ can neva help you in your work because I believe in it?"
 
 "But if you believe in me--"
 
-She shook her bead compassionately. "You know we ahgued that out before.
+She shook her head compassionately. "You know we ahgued that out before.
 We are just whe'e we were. I am sorry. Nobody had any right to tell you
 to come he'e. But I am glad you came--" She saw the hope that lighted up
 his face, but she went on unrelentingly--"I think we had betta be free."
@@ -4305,7 +4306,7 @@ what she called her well days Mrs. Lander went to visit him, and she did
 not mind his being in his shirt-sleeves, in the bit of garden where she
 commonly found him, with his collar and cravat off, and clouded in his
 own smoke; when she was sick she sent for him, to visit her. He made
-excuses as often as she could, and if he saw Mrs. Lander's gondola coming
+excuses as often as he could, and if he saw Mrs. Lander's gondola coming
 down the Grand Canal to his house he hurried on his cast clothing, and
 escaped to the Piazza, at whatever discomfort and risk from the heat.
 
@@ -4758,7 +4759,7 @@ away. The fond reveries helped her to bear her suspense; they helped to
 make the days go by, to ease the doubt with which she lay down at night,
 and the heartsick hope with which she rose up in the morning.
 
-One day, at the hour of his wonted visit, she say the vice-consul from
+One day, at the hour of his wonted visit, she saw the vice-consul from
 her balcony coming, as it seemed to her, with another figure in his
 gondola, and a thousand conjectures whirled through her mind, and then
 centred upon one idea. After the first glance she kept her eyes down, and
@@ -4887,7 +4888,7 @@ a check upon her headlong self-sacrifice. The vice-consul strengthened
 his hold upon her by asking, "What would you do. I should like to know,
 if you gave that up?"
 
-"Oh, I should get along," she returned, Light-heartedly, but upon
+"Oh, I should get along," she returned, light-heartedly, but upon
 questioning herself whether she should turn to Miss Milray for help, or
 appeal to the vice-consul himself, she was daunted a little, and she
 added, "But just as you say, Mr. Bennam."
@@ -5220,7 +5221,7 @@ even laughed as she answered the anxious vice-consul.
 XXXVI.
 
 The next morning Clementina watched for the vice-consul from her balcony.
-She knew he would not send; she knew he would come; but it, was nearly
+She knew he would not send; she knew he would come; but it was nearly
 noon before she saw him coming. They caught sight of each other almost at
 the same moment, and he stood up in his boat, and waved something white
 in his hand, which must be a dispatch for her.
@@ -5294,7 +5295,7 @@ steamer for him."
 She cast down her eyes. "I don't know what you'll think of me. I should
 have been sorry for him, and I should have wanted to stay." She lifted
 her eyes and looked the vice-consul defiantly in the face. "But he hadn't
-the fust claim on me, and I should have gone--I couldn't, have helped
+the fust claim on me, and I should have gone--I couldn't have helped
 it!--I should have gone, if he had been dying!"
 
 "Well, you've got more horse-sense," said the vice-consul, "than any ten
@@ -5321,7 +5322,7 @@ consul. "Should you tell him?" she asked.
 
 "Tell who what?" he retorted.
 
-"Mr. Osson-that I wouldn't have stayed for him."
+"Mr. Osson--that I wouldn't have stayed for him."
 
 "Do you think it would make you feel any better?" asked the consul, upon
 reflection.
@@ -5536,8 +5537,8 @@ Mr. Orson apparently could not enter into the joke; but he accompanied
 the party, which again began to forget him, across the ferry and up the
 elevated road to the street car that formed the last stage of their
 progress to the hotel. At this point George's sister fell silent, and
-Clementina's father burst out, "Look he'a! I guess we betty not keep this
-up any Tonga; I don't believe much in surprises, and I guess she betta
+Clementina's father burst out, "Look he'a! I guess we betta not keep this
+up any longa; I don't believe much in supprises, and I guess she betta
 know it now!"
 
 He looked at George's sister as if for authority to speak further, and
@@ -5570,7 +5571,7 @@ constrained by her constraint.
 
 "No; you are looking better than I expected."
 
-"And you are not sorry-for anything?"
+"And you are not sorry--for anything?"
 
 "No, I am--Perhaps I have thought of you too much! It seems so strange."
 
@@ -5621,7 +5622,7 @@ his visit to Boston long enough."
 
 "Yes. I'll get round to it, in the mohning."
 
-"No-now; right away. I've been talking with Geo'ge about it; and the'e's
+"No--now; right away. I've been talking with Geo'ge about it; and the'e's
 no sense in putting it off. I ought to begin taking care of him at once."
 
 "Well, I guess when I tell your motha how you're layin' hold, she won't
@@ -5734,7 +5735,7 @@ don't believe but what he expected to get well, right away. It's the kind
 of a thing that lingas along, and lingas along. As fah fo'th as Clem
 went, I guess there wa'n't any let about it. I guess she'd made up her
 mind from the staht, and she was goin' to have him if she had to hold him
-on his feet to do it. Look he'a! W hat would you done?"
+on his feet to do it. Look he'a! What would you done?"
 
 "Oh, I presume we're all fools!" said Mrs. Claxon, impatient of a sex not
 always so frank with itself. "But that don't excuse him."
@@ -5799,7 +5800,7 @@ time." She stopped, and then added, tenderly, "Now, I know what you ah'
 thinking about, Geo'ge, and I don't want you to think about it any more.
 If you do, I shall give up."
 
-They had come to a bad piece of road where a Slough of thick mud forced
+They had come to a bad piece of road where a slough of thick mud forced
 the wagon-way over the stumps of a turnout in the woods. "You had better
 let me have the reins, Clementina," he said. He drove home over the
 yellow leaves of the hickories and the crimson leaves of the maples, that
@@ -5920,7 +5921,7 @@ Lander!"
 
 "Yes; life is very strange."
 
-"I don't mean-losing him. That had to be. I can see, now, that it had to
+"I don't mean--losing him. That had to be. I can see, now, that it had to
 be almost from the beginning. It seems to me that I knew it had to be
 from the fust minute I saw him in New Yo'k; but he didn't, and I am glad
 of that. Except when he was getting wohse, he always believed he should
@@ -6039,7 +6040,7 @@ caring for him when I did, it is right now for me to ca'e for him again,
 where the'e's no one to be hu't by it. Do you think it is?"
 
 "Yes; why not?" Miss Milray was forced to the admission against what she
-believed the finer feelings 'of her nature.
+believed the finer feelings of her nature.
 
 Clementina sighed, "I suppose he's right. I always thought he was good.
 Women don't seem to belong very much to themselves in this wo'ld, do
@@ -6157,7 +6158,7 @@ Mr. Gregory--yet."
 stood, holding the hand of her little girl, who stared shyly at the
 intense face of the man before her.
 
-"I am," he retorted. "I have been thinking it all ever, Clementina. I've
+"I am," he retorted. "I have been thinking it all over, Clementina. I've
 tried not to think selfishly about it, but I can't pretend that my wish
 isn't selfish. It is! I want you for myself, and because I've always
 wanted you, and not for any other reason. I never cared for any one but
@@ -6173,7 +6174,7 @@ was something you couldn't help."
 
 "It was something I couldn't help. Perhaps I didn't try ."
 
-"Did-she know it?"
+"Did--she know it?"
 
 "She knew it from the first; I told her before we were married."
 
@@ -6195,7 +6196,7 @@ mustn't hurry me."
 
 "Yes, if you want to. I don't know but you betta; we might as well; I
 want to talk with you. Don't you think it's something we ought to talk
-about-sensibly?"
+about--sensibly?"
 
 "Why, of course! And I shall try to be guided by you; I should always
 submit to be ruled by you, if--"
@@ -6252,7 +6253,7 @@ think it wasn't, no matta why you did it."
 "I say it, because I shouldn't eva wish to say it again. I know that all
 the time you we'e betta than what you did, and I blame myself a good deal
 moa fo' not knowing when you came to Florence that I had begun to ca'e
-fo'some one else. But I did wait till I could see you again, so as to be
+fo' some one else. But I did wait till I could see you again, so as to be
 su'a which I ca'ed for the most. I tried to be fai'a, before I told you
 that I wanted to be free. That is all," she said, gently, and Gregory
 perceived that the word was left definitely to him.
